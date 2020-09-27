@@ -1,0 +1,21 @@
+body{
+    background-color: powderblue;
+    margin:50px
+}
+h1{
+    color:black;
+}
+p{
+    color:rebeccapurple;
+}
+blockquote{
+    color: rgba(109, 50, 79, 0.925);
+}
+address{
+    text-align: center;
+    border:5px solid yellowgreen;
+    color: rgba(109, 50, 79, 0.925);
+}
+bdo{
+   color:brown;
+}
